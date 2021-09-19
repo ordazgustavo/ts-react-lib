@@ -1,3 +1,3 @@
 # ts-react-lib
 
-TypeScript + React template library
+TypeScript + React library template
